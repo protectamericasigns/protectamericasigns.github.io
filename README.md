@@ -1,14 +1,14 @@
-# Signs to help publicize the degradation of US democracy
+# Signs to publicize the degradation of US democracy
 
 This sign prints on a standard sheet of paper.    
 
-You can buy full-page US letter size labels, print the PDF on the labels with a standard laser or inkjet printer, and hang them up yourself (1). 
+You can buy full-page US letter size labels, print the PDF on the labels with a standard laser or inkjet printer, and hang them up yourself. 
 
 
-
-Posters | &nbsp;
+&nbsp; | &nbsp;
 ------------------ | ---
-Click image to download PDF <br> <a href="posters/IfYouWorkPoster.pdf?ver=v3" style="clear:left"><img src="img/IfYouWorkPoster.png" align="left" width="240" style="clear: left"></a> | &nbsp;
+<a href="posters/BananaRepublic.pdf?ver=v1" style="clear:left"><img src="img/BananaRepublic.png" align="left" width="240" style="clear: left"></a> |  "This is what it's like in a banana republic" -- Charles Krauthammer, GOP intellectual, referring to the president's use of twitter.
+<a href="posters/IfYouWorkPoster.pdf?ver=v3" style="clear:left"><img src="img/IfYouWorkPoster.png" align="left" width="240" style="clear: left"></a> |  **If you work for this White House**  <br> **You are complicit** <br> In hate-mongering(1), lies(2), corrupt taking of Americans’ tax money <br> via self-dealing(3) and emoluments(4), and quite possibly federal crimes and <br> treason.  Also, any wars will be on your soul.  <br>[full references, elaborating on these points](#complicit-poster-text)
 
 
 
@@ -19,12 +19,12 @@ Click image to download PDF <br> <a href="posters/IfYouWorkPoster.pdf?ver=v3" st
 
 # Post pictures
 
-Take pictures of the signs (1) and tag them on social media. #protectamericasigns #protectamerica
+Take pictures of the signs. #protectamericasigns #protectamerica
 
 
 ## Contact
 
-[Email us](protectamericaposters@tutanota.com) with questions or comments.  
+[Email us](protectamericaposters@tutanota.com).
 
 
 
@@ -33,7 +33,7 @@ Take pictures of the signs (1) and tag them on social media. #protectamericasign
 
 ---
 
-## Poster text:
+## Complicit poster text
 
 **If you work for this White House**
 
@@ -57,8 +57,6 @@ Yes, to chase ratings, broadcast media amplified misinformation about Hillary Cl
 
 <br>
 <br>
-
->  (1) in legal locations
 
 ---
 
